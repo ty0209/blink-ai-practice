@@ -1,0 +1,11 @@
+blink_count,blink_per_min,avg_close_duration,long_close_count,eye_closed_ratio,label
+41,37.65,0.731,15,0.459,tired
+34,30.06,0.926,11,0.464,focus
+31,28.82,0.347,8,0.167,tired
+46,42.01,0.235,8,0.165,focus
+42,39.28,0.955,16,0.625,tired
+59,54.7,0.343,16,0.313,focus
+35,32.25,0.431,12,0.232,tired
+28,26.14,0.356,11,0.155,focus
+47,43.27,0.503,17,0.362,tired
+13,12.16,0.211,1,0.043,focus
